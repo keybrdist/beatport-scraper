@@ -1,0 +1,16 @@
+{
+  "name": "beatport-profile-scraper",
+  "version": "0.0.1",
+  "description": "A profile metadata scraper for https://beatport.com",
+  "main": "lib/index.js",
+  "author": "Michael Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "json5": "^0.5.1",
+    "linez": "^4.1.4",
+    "scrape-it": "^3.3.2",
+    "tinyreq": "^3.2.5"
+  },
+  "keywords": []
+}
